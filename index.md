@@ -1,8 +1,9 @@
 ## Welcome to this awesome AR app
 
-You can use the [editor on GitHub](https://github.com/Tibsiii/AR_Versuch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Let's try build our first AR app. 
+Ok, it is a start only ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/Tibsiii/AR_Versuch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Holy moses, what an app ...
 
