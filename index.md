@@ -23,7 +23,7 @@
 </body>
 
 
-## Welcome to this awesome AR app
+## Welcome to this awesome AR app from Tibby
 
 Let's try build our first AR app. 
 Ok, it is a start only ...
