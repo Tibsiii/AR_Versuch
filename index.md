@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/Tibsiii/AR_Versuch/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Holy moses, what an app ...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
